@@ -62,6 +62,7 @@ alias uvv10="uv venv --python 3.10"
 alias uvv11="uv venv --python 3.11"
 alias uvv12="uv venv --python 3.12"
 alias uvv13="uv venv --python 3.13"
+alias uvv13="uv venv --python 3.14"
 
 alias uvr="uv run"
 
